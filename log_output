@@ -1,0 +1,48 @@
+Loss: 0.486922 at epoch: 1
+Loss: 0.484747 at epoch: 2
+Loss: 0.482800 at epoch: 3
+Loss: 0.480313 at epoch: 4
+Loss: 0.479349 at epoch: 5
+Loss: 0.476751 at epoch: 6
+Loss: 0.475048 at epoch: 7
+Loss: 0.472609 at epoch: 8
+Loss: 0.471126 at epoch: 9
+Loss: 0.469536 at epoch: 10
+Validation loss: 0.468864 at epoch: 10
+Loss: 0.467085 at epoch: 11
+Loss: 0.465541 at epoch: 12
+Loss: 0.462908 at epoch: 13
+Loss: 0.461053 at epoch: 14
+Loss: 0.459309 at epoch: 15
+Loss: 0.457434 at epoch: 16
+Loss: 0.455268 at epoch: 17
+Loss: 0.453580 at epoch: 18
+Loss: 0.451676 at epoch: 19
+Loss: 0.449364 at epoch: 20
+Validation loss: 0.449350 at epoch: 20
+Loss: 0.447236 at epoch: 21
+Loss: 0.445520 at epoch: 22
+Loss: 0.443384 at epoch: 23
+Loss: 0.441051 at epoch: 24
+Loss: 0.440056 at epoch: 25
+Loss: 0.438081 at epoch: 26
+Loss: 0.436106 at epoch: 27
+Loss: 0.434014 at epoch: 28
+Loss: 0.432831 at epoch: 29
+Loss: 0.430797 at epoch: 30
+Validation loss: 0.430052 at epoch: 30
+Loss: 0.428423 at epoch: 31
+Loss: 0.426731 at epoch: 32
+Loss: 0.424926 at epoch: 33
+Loss: 0.422641 at epoch: 34
+Loss: 0.420565 at epoch: 35
+Loss: 0.419106 at epoch: 36
+Loss: 0.416697 at epoch: 37
+Loss: 0.415745 at epoch: 38
+Loss: 0.413983 at epoch: 39
+Loss: 0.411427 at epoch: 40
+Validation loss: 0.411646 at epoch: 40
+Loss: 0.410167 at epoch: 41
+Loss: 0.408442 at epoch: 42
+Loss: 0.406351 at epoch: 43
+Loss: 0.404404 at epoch: 44
