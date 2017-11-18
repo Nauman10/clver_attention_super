@@ -26,24 +26,20 @@ Other requirements can be seen in the requirements.txt file
 
 Clone this and  pycocoevalcap repos in the same directory
 
-'''
- 
+```bash
 git clone https://github.com/Nauman10/clver_attention_super.git
-
 git clone https://github.com/tylin/coco-caption.git
-
-'''
+```
 
 To download the required files (dataset and the trained-vgg network) aswell as setting up the 
-dictionaries, labels, training splits
+dictionaries, labels, training splits:
 
-'''
+Change directory to this repo and run:
 
+```bash
 ./download.sh
-
 ./setup.bash
-
-'''
+```
 
 
 
