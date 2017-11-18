@@ -5,17 +5,17 @@ train_size = 8000
 validate_size = 2000
 
 
-if not os.path.exists('diff_train_images'):
-        print "here"
-	os.makedirs('diff_train_images')
-else:
-	os.system('rm -rf diff_train_images')
+if not os.path.exists('./diff_train_images/'):
+
+	os.makedirs('./diff_train_images/')
 
 
-if not os.path.exists('diff_val_images'):
-        os.makedirs('diff_val_images')
-else:
-	os.system('rm -rf diff_val_images')
+
+
+if not os.path.exists('./diff_val_images/'):
+        os.makedirs('./diff_val_images/')
+
+
 
 for index,item  in enumerate(sorted(os.listdir('resized_diff_images'))):
 	if item.endswith('.png') and index < train_size:
